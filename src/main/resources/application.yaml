@@ -1,0 +1,4 @@
+test:
+  enableSink: true
+  disableSink: true
+  source: 1
